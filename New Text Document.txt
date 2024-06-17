@@ -1,0 +1,1 @@
+the idea is : when you click on the next of each input --> check if the input is valid or not (if it is valid down the input and chang the background to green  else rotate the input and change the background to red)
